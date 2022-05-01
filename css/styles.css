@@ -138,7 +138,7 @@
 #Fondoref{
     width: 2000px;/*1120px; 280*/
     height: 950px; /*971*/
-    background-image: url(\ima\diseño---plataforma-back.png);
+    background-image: url(\\ima\\diseño---plataforma-back.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
